@@ -6,4 +6,4 @@
 - **University:** Shahid Beheshti University  
 ---
 
-HW : Zipf’s Law & Benford’s Law in Text Processing [LINK](https://github.com/matinfirooz/Zipf-s-Law-and-Benford-s-Law-in-Text-Processing.git)
+HW : Zipf’s Law & Benford’s Law in Text Processing [LINK](https://github.com/matinfirooz/Zipf-s-Law-and-Benford-s-Law-in-Text-Processing.git).
